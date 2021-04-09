@@ -8,7 +8,7 @@ Feature: Login
 #  I had somewhere from 2 to 25 scenarios in every feature file
 #  By passing parameters/strings in "some word" we can reuse test steps
 #  In my project, I was trying to keep scenarios short
-
+@123456
   @store_manager
   Scenario: Login as store manager
     Given user is on the login page
